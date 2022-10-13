@@ -3,7 +3,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: #120c0c;
   color: white;
   font-family: 'Roboto', sans-serif;
 }
@@ -23,7 +23,7 @@ html, body {
 /* task 13: add at least 1 Google Font - either for the headers or paragraphs. Or both! Also, make sure it's linked in the html pages you want it used on!*/
 .header {
   font-family: 'Fuzzy Bubbles', cursive;
-  color:  #ea4335;
+  color:  #7f1a33;
 }
 
 
